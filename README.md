@@ -1,6 +1,6 @@
 # SISTEMA DE GESTIÓN DE PROYECTOS AMBIENTALES 
 
-## APIS 📋 
+## API 📋 
 
 #### MANAGER
 
@@ -59,7 +59,7 @@ Asegúrese que se generaron los archivos **jar** en cada proyecto en la carpeta 
 
 #### EJECUTE EL ARCHIVO DOCKER-COMPOSE
 
-En la caperta **\Api** esta el archivo **Docker-compose** ejecutamos en una **terminal** el siguiente comando para crear el contenedor:
+En la caperta **manager** esta el archivo **Docker-compose** ejecutamos en una **terminal** el siguiente comando para crear el contenedor:
 
 ```
 Docker-compose up --build -d
